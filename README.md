@@ -3,14 +3,13 @@
 Welcome to **Fighting Game** — a fast-paced 1v1 combat game where timing, reflexes, and skill decide who walks away victorious.
 
 ## About the Game
-Fighting Game is a competitive action game focused on intense battles, responsive controls, and classic fighting mechanics. Choose your fighter, master unique moves, and defeat your opponent in high-energy matches.
+Fighting Game is a competitive action game focused on intense battles, responsive controls, classic fighting mechanics, and defeat your opponent in high-energy matches.
 
 ## Features
 - 👊 Classic 1v1 fighting gameplay
-- 🧠 Unique fighters with different abilities and combos
 - ⚡ Smooth animations and responsive controls
 - 🕹️ Local multiplayer support
-- 🏆 Health bars, rounds, and knockout system
+- 🏆 Health bars, and knockout system
 
 ## Controls
 | Action        | Key |
@@ -18,15 +17,12 @@ Fighting Game is a competitive action game focused on intense battles, responsiv
 | Move Left     | A / ← |
 | Move Right    | D / → |
 | Jump          | W / ↑ |
-| Crouch        | S / ↓ |
-| Punch         | J |
-| Kick          | K |
-| Special Move  | L |
+| slash         | Space / ↓ |
 
 ## Installation
 Clone the repository and start the game:
 ```bash
 git clone fighting-game
-cd fighting-game
-npm install
-npm run start
+cd webgame
+```
+start the game with live server and challenge your friend
